@@ -15,4 +15,4 @@ type or copy the following \
  python3 Chemistry_test_2.py
 ```
 
-it should open if it doesnt just message me.\
+it should open if it doesnt just message me.
