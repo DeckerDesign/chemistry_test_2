@@ -2,7 +2,7 @@
 just a simple little guy 
 
 
-if you have never installed python heres how its simple enough\
+if you have never installed python heres a simple enough way to get it running
 
 Download the Python installer here https://www.python.org/downloads/\
 Run the installer for your operating system\
