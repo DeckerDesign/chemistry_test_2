@@ -9,7 +9,11 @@ Run the installer for your operating system
 Install Python
 Verify the installation
 open command prompt on windows or terminal on mac 
-navigate to the folder wher you grab the .py file from this repo and type
-python3 Chemistry_test_2.py
+navigate to the folder where you saved the .py file from this repo (id advise keeping it downloads or desktop 
+type or copy the following 
+```
+{
+ python3 Chemistry_test_2.py
+```
 
 it should open if it doesnt just message me.
